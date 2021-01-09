@@ -1,0 +1,13 @@
+# redfin-user 11 RQ1A.210105.003 7005429 release-keys
+- manufacturer: 
+- platform: lito
+- codename: redfin
+- flavor: redfin-user
+- release: 11
+- id: RQ1A.210105.003
+- incremental: 7005429
+- tags: release-keys
+- fingerprint: google/redfin/redfin:11/RQ1A.210105.003/7005429:user/release-keys
+- brand: google
+- branch: redfin-user-11-RQ1A.210105.003-7005429-release-keys
+- repo: google_redfin_dump
